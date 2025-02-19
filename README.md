@@ -15,6 +15,8 @@ I am a **BS-IT student** at **Virtual University of Pakistan (2021-2025)** and a
 </a>
 </p>
 
+📧 **Email:** muhammadramzan1293@gmail.com  
+
 ---
 
 ### 💻 Languages and Tools  
