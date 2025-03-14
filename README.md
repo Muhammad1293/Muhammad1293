@@ -60,5 +60,5 @@ I am a **BS-IT student** at **Virtual University of Pakistan (2021-2025)** and a
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad1293&show_icons=true&locale=en&layout=compact" alt="muhammad1293" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad1293&show_icons=true&locale=en&layout=compact&v=1" alt="muhammad1293" />
 </p>
