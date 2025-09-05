@@ -4,7 +4,9 @@
 ---
 
 ### 📖 About Me  
-I am a **BS-IT student** at **Virtual University of Pakistan (2021-2025)** and a passionate **full-stack web developer**. My expertise lies in building efficient, scalable web applications using modern technologies. I am proficient in **React.js, JavaScript, Node.js, Express.js, and various databases including MySQL and PostgreSQL**. I enjoy exploring **software development, cloud technologies, and architecting robust full-stack solutions**. Always eager to learn and grow, I am constantly expanding my knowledge to enhance my development capabilities.
+I am a passionate full-stack web developer with expertise in building efficient, scalable web applications using modern technologies. I am proficient in React.js, JavaScript, Node.js, Express.js, and relational databases such as MySQL and PostgreSQL.
+
+I enjoy exploring software development, cloud technologies, and architecting robust full-stack solutions. Always eager to learn and grow, I constantly expand my knowledge to enhance my development capabilities.
 
 ---
 
