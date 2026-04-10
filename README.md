@@ -74,5 +74,6 @@ I enjoy exploring software development, cloud technologies, and architecting rob
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad1293&v=1show_icons=true&locale=en&layout=compact&v=1" alt="Muhammad1293" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Muhammad1293&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Muhammad1293&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
