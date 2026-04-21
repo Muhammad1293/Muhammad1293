@@ -20,7 +20,7 @@ Passionate about creating fast, scalable, and user-friendly web applications usi
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,materialui,nodejs,express,php,mysql,postgresql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,php,mysql,postgresql,typescript,tailwindcss,materialui,git" />
 </p>
 
 ---
