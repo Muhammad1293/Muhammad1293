@@ -46,6 +46,9 @@ Passionate about creating fast, scalable, and user-friendly web applications usi
 <a href="https://www.instagram.com/muhammad_ramzan1293/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
+  <a href="https://www.facebook.com/hafiz.zulfqar.758" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+</a>
 <a href="mailto:muhammadramzan1293@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
