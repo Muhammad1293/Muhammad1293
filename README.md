@@ -1,74 +1,91 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ramzan</h1>
-<h3 align="center">Full Stack Developer | Building Modern Web Applications</h3>
+
+<h1 align="center">Muhammad Ramzan</h1>
 
 <p align="center">
-Passionate about creating fast, scalable, and user-friendly web applications using modern technologies.
+Full-Stack Developer focused on building scalable web applications with modern JavaScript technologies.
+</p>
+
+<p align="center">
+From responsive frontends to well-structured backend systems, I enjoy turning ideas into reliable software that solves real business problems.
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💻 Full Stack Developer focused on frontend + backend solutions  
-- ⚡ Build responsive, modern, and performance-driven web apps  
-- 🌱 Continuously learning new technologies and best practices  
-- 🎯 Interested in SaaS products, dashboards, automation & scalable systems  
-- 📍 Based in Pakistan  
+I'm a full-stack developer from Pakistan with a strong interest in building production-ready web applications.
+
+Most of my work revolves around creating business systems, dashboards, REST APIs, authentication flows, and database-driven applications. I enjoy designing clean architectures that are easy to maintain, perform well, and scale as projects grow.
+
+I'm always looking to improve both my technical skills and the way I approach software engineering.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
+
+### Frontend
+- Next.js
+- React
+- JavaScript (ES6+)
+- TypeScript
+- Tailwind CSS
+- Material UI
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+
+---
+
+## What I Like Building
+
+- Business Management Systems
+- Admin Dashboards
+- Financial Management Platforms
+- SaaS Applications
+- Authentication & Authorization Systems
+- RESTful APIs
+- Responsive Company Websites
+- Internal Automation Tools
+
+---
+
+## Current Focus
+
+- Building production-ready full-stack applications
+- Writing cleaner and more maintainable code
+- Improving software architecture skills
+- Learning scalable backend patterns
+- Creating better user experiences
+
+---
+
+## GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,tailwindcss,materialui,express,php,mysql,postgresql,git" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad1293&theme=github_dark" />
 </p>
 
 ---
 
-## 📌 What I Build
+## Connect
 
-✅ Admin Dashboards  
-✅ Full Stack Web Apps  
-✅ REST APIs  
-✅ Authentication Systems  
-✅ Database Driven Applications  
-✅ Responsive Business Websites  
-✅ Automation Tools  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/muhammadramzan07/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://www.instagram.com/muhammad_ramzan1293/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-<a href="mailto:muhammadramzan1293@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/muhammadramzan07">LinkedIn</a> •
+<a href="mailto:muhammadramzan1293@gmail.com">Email</a> •
+<a href="https://www.instagram.com/muhammad_ramzan1293/">Instagram</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad1293&theme=tokyonight" />
-</p>
-
-
-## 💡 Current Focus
-
-- Building production-ready full stack apps  
-- Improving UI/UX skills  
-- Learning advanced backend architecture  
-- Growing as a professional developer  
-
----
-
-<p align="center">
-⭐ Always open to collaboration and exciting opportunities.
-</p>
+> I enjoy building software that is practical, maintainable, and designed for real-world use.
+```
