@@ -1,91 +1,67 @@
-
 <h1 align="center">Muhammad Ramzan</h1>
-
 <p align="center">
-Full-Stack Developer focused on building scalable web applications with modern JavaScript technologies.
-</p>
-
-<p align="center">
-From responsive frontends to well-structured backend systems, I enjoy turning ideas into reliable software that solves real business problems.
+Full-Stack Developer focused on building scalable web applications with React, Next.js and Express.js.
 </p>
 
 ---
 
 ## About
 
-I'm a full-stack developer from Pakistan with a strong interest in building production-ready web applications.
+I'm a full-stack developer who enjoys building software that solves real business problems. Most of my work revolves around modern web applications, admin dashboards, financial systems, REST APIs, and database-driven platforms.
 
-Most of my work revolves around creating business systems, dashboards, REST APIs, authentication flows, and database-driven applications. I enjoy designing clean architectures that are easy to maintain, perform well, and scale as projects grow.
-
-I'm always looking to improve both my technical skills and the way I approach software engineering.
+I like writing clean, maintainable code, designing practical system architecture, and creating responsive user interfaces that are easy to use. My goal is to build applications that remain reliable as they grow.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-- Next.js
-- React
-- JavaScript (ES6+)
-- TypeScript
-- Tailwind CSS
-- Material UI
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-- MySQL
-- PostgreSQL
-
-### Tools
-- Git
-- GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,tailwindcss,materialui,nodejs,express,php,mysql,postgresql,git" />
+</p>
 
 ---
 
-## What I Like Building
+## What I Work On
 
-- Business Management Systems
-- Admin Dashboards
-- Financial Management Platforms
-- SaaS Applications
-- Authentication & Authorization Systems
+- Full-stack web applications
+- Business management systems
+- Admin dashboards
 - RESTful APIs
-- Responsive Company Websites
-- Internal Automation Tools
+- Authentication and authorization
+- Database design and optimization
+- Responsive user interfaces
 
 ---
 
 ## Current Focus
 
-- Building production-ready full-stack applications
-- Writing cleaner and more maintainable code
-- Improving software architecture skills
-- Learning scalable backend patterns
-- Creating better user experiences
+I'm currently working on production-ready applications using Next.js, React, Express.js, and PostgreSQL while continuing to improve my backend architecture, performance optimization, and software design practices.
+
+---
+
+## Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/muhammadramzan07/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://www.instagram.com/muhammad_ramzan1293/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+<a href="mailto:muhammadramzan1293@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad1293&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad1293&theme=tokyonight" />
 </p>
 
 ---
 
-## Connect
+I'm always interested in collaborating on meaningful projects and connecting with other developers.
 
-<p align="left">
-<a href="https://linkedin.com/in/muhammadramzan07">LinkedIn</a> •
-<a href="mailto:muhammadramzan1293@gmail.com">Email</a> •
-<a href="https://www.instagram.com/muhammad_ramzan1293/">Instagram</a>
-</p>
-
----
-
-> I enjoy building software that is practical, maintainable, and designed for real-world use.
-```
